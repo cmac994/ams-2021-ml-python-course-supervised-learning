@@ -2,6 +2,10 @@
 
 ## Supervised learning 
 
+### Regression
+<img width="1600" height="400" src="Figures/Figure3.png">
+
+### Classification
 <img width="1600" height="400" src="Figures/Figure7.png">
 
 ### Setup
