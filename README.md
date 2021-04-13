@@ -5,13 +5,14 @@
 This module uses basic ML models – linear regression (LR), logistic regression, suport-vector machines (SVM), decision trees (DT), random forests (RF), and gradient-boosted trees (GB) to predict surface conditions at select Weather Challenge METAR sites.
 
 Please cite the notebook as follows:
-McNicholas, C., 2021: "Appying Supervised Machine Learning to Surface Weather Observations"
+ - *McNicholas, C., 2021: "Appying Supervised Machine Learning to Surface Weather Observations"*
+
 
 The data used in this tutorial and included in this repository can be cited as:
-McGovern, A., Burke, A., Harrison, D., and G. M. Lackmann, 2020: A Machine Learning Tutorial for Operational Forecasting: Part I. Wea. Forecasting, In Press 
+ - *McGovern, A., Burke, A., Harrison, D., and G. M. Lackmann, 2020: A Machine Learning Tutorial for Operational Forecasting: Part I. Wea. Forecasting, In Press*
 
 Additionally, the first half of the supervised learning notebook (1-5) was insipired by the lecture material cited below:
-Burke, A., 2020: "Traditional Machine Learning Pipeline Applied to NWP Model Data"
+ - *Burke, A., 2020: "Traditional Machine Learning Pipeline Applied to NWP Model Data"*
 
 ### Course Outline
 
