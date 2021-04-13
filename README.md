@@ -1,6 +1,6 @@
 # ams-2021-ml-python-course-supervised-learning
-Supervised learning 
 
+## Supervised learning 
 
 ### Setup
 
@@ -23,3 +23,14 @@ Such an environment can be created from the yml file included in this repository
   - Overview and implementation of supervised machine learning for surface weather prediction.
 - [*Supervised_Learning_Notebook_Key.ipynb*](https://nbviewer.jupyter.org/github/cmac994/ams-2021-ml-python-course-supervised-learning/blob/master/notebooks/Supervised_Learning_Notebook_Key.ipynb)
   - Same as above, but included excerise solutions within the final two cells.
+
+
+### References and Acknowledgements
+
+- Code Citation
+Burke, A., 2020: "Traditional Machine Learning Pipeline Applied to NWP Model Data"
+The first half of the supervised learning notebook was largely insipired by the lecture material cited above.
+
+- Data Citation
+McGovern, A., Burke, A., Harrison, D., and G. M. Lackmann, 2020: A Machine Learning Tutorial for Operational Forecasting: Part I. Wea. Forecasting, In Press 
+
