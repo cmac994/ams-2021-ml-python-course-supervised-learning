@@ -60,9 +60,9 @@ Each model was trained using NWP model forecast data retrieved between 2011 and 
 
 ### Module Setup
 
-If using google colab, simply load the .ipynb notebook into colab and begin. 
+If using [google colab](https://colab.research.google.com/), simply load the .ipynb notebook into colab and begin. 
 
-Alternatively, if you'd like to run these notebooks in jupyter, you'll need to ensure all necessary packages are installed.
+Alternatively, if you'd like to run these notebooks in [Jupyter](https://jupyter.org/), you'll need to ensure all necessary packages are installed.
 This can be easily accomplished by setting up a new conda enivonrment with all the relevant packages.
 
 Such an environment can be created from the yml file included in this repository. To create a new environment run the following command(s) from the terminal.
