@@ -48,7 +48,7 @@ Additionally, the first half of the supervised learning notebook (1-5) was insip
 ### Examples 
 
 #### Regression
-<img width="1600" height="400" src="Figures/Figure3.png">
+<img width="1600" height="400" src="Figures/figure3.png">
 
 *A variety of supervised machine learning techniques are applied to predict maximum temperature at KROA (Roanoke-Blacksburg Airport, VA) between 2018-2019.
 Each model was trained using NWP model forecast data retrieved between 2011 and 2017. The comparison in mean squared error and the percentile absolute error difference highlights the power of machine learning to constrain variance. For more details see notebook!*
