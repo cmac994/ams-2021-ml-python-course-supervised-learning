@@ -2,6 +2,8 @@
 
 ## Supervised learning 
 
+<img width="1680" height="255" src="Figures/Figure4.png">
+
 ### Setup
 
 If using google colab, simply load the .ipynb notebook into colab and begin. 
