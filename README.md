@@ -24,26 +24,26 @@ Additionally, the first half of the supervised learning notebook (1-5) was insip
 
 #### In-depth 
   5. Data Pre-processing
-    - Partiation Data
-    - Transforming and Scaling Data
+     - Partiation Data
+     - Transforming and Scaling Data
   6. Machine Learning Models
-    - Scoring
-    - Linear Methods
-    - Tree-based Methods
-    - Ensemble and Aggregate Methods
+     - Scoring
+     - Linear Methods
+     - Tree-based Methods
+     - Ensemble and Aggregate Methods
   7. Model Evaluation
-    - Feature Analysis
-    - Accuracy and Reliability 
+     - Feature Analysis
+     - Accuracy and Reliability 
   8. Multi-output Regression
   9. Classification
-    - Scoring
-    - Feature Selection
-    - Model Training
-    - Performance
+     - Scoring
+     - Feature Selection
+     - Model Training
+     - Performance
   10. Exercise
-    - Feature Importance
-    - Learning Curves
-    - Practice
+     - Feature Importance
+     - Learning Curves
+     - Practice
 
 ### Examples 
 
