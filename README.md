@@ -44,13 +44,15 @@ Burke, A., 2020: "Traditional Machine Learning Pipeline Applied to NWP Model Dat
     - Learning Curves
     - Practice
 
-### Regression
+### Examples 
+
+#### Regression
 <img width="1600" height="400" src="Figures/Figure3.png">
 
 Caption: A variety of supervised machine learning techniques are applied to predict maximum temperature at KROA (Roanoke-Blacksburg Airport, VA) between 2018-2019.
 Each model was trained using NWP model forecast data retrieved between 2011 and 2017. The comparison in mean squared error and the percentile absolute error difference highlights the power of machine learning to constrain variance. For more details see notebook!
 
-### Classification
+#### Classification
 <img width="1600" height="400" src="Figures/Figure7.png">
 
 Caption: Binary classification performance for precipitation prediction at KROA over the testing period (2018-2019). Receiver Operating Characteristic (ROC) curves are displayed on the left while Detection Error Tradeoff (DET) curves are shown on the right. Both plots show that machine learning models, in particular gradient boosting, outperform NWP in terms of precipitation prediction (i.e. precipitation = 1, no precipitatio = 0) on any given day. For more details see notebook! 
@@ -76,12 +78,3 @@ Such an environment can be created from the yml file included in this repository
   - Overview and implementation of supervised machine learning for surface weather prediction.
 - [*Supervised_Learning_Notebook_Key.ipynb*](https://nbviewer.jupyter.org/github/cmac994/ams-2021-ml-python-course-supervised-learning/blob/master/notebooks/Supervised_Learning_Notebook_Key.ipynb)
   - Same as above, but included excerise solutions within the final two cells.
-
-
-### References and Acknowledgements
-
-Burke, A., 2020: "Traditional Machine Learning Pipeline Applied to NWP Model Data"
-The first half of the supervised learning notebook was largely insipired by the lecture material cited above.
-
-McGovern, A., Burke, A., Harrison, D., and G. M. Lackmann, 2020: A Machine Learning Tutorial for Operational Forecasting: Part I. Wea. Forecasting, In Press 
-
