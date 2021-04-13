@@ -56,7 +56,7 @@ Each model was trained using NWP model forecast data retrieved between 2011 and 
 #### Classification
 <img width="1500" height="375" src="Figures/Figure7.png">
 
-*Binary classification performance for precipitation prediction at KROA over the testing period (2018-2019). Receiver Operating Characteristic (ROC) curves are displayed on the left while Detection Error Tradeoff (DET) curves are shown on the right. Both plots show that machine learning models, in particular gradient boosting, outperform NWP in terms of precipitation prediction (i.e. precipitation = 1, no precipitatio = 0) on any given day. For more details see notebook!*
+*Binary classification performance for precipitation prediction at KROA over the testing period (2018-2019). Receiver Operating Characteristic (ROC) curves are displayed on the left while Detection Error Tradeoff (DET) curves are shown on the right. Both plots show that machine learning models, especially gradient boosting, outperform NWP in terms of precipitation prediction (i.e. precipitation = 1, no precipitation = 0) on any given day. For more details see notebook!*
 
 ### Module Setup
 
