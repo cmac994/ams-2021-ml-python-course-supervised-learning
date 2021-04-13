@@ -12,7 +12,7 @@ This can be easily accomplished by setting up a new conda enivonrment with all t
 Such an environment can be created from the yml file included in this repository. To create a new environment run the following command(s) from the terminal.
 
 1) Create the environment
-   - *conda env create -f ml_tutorial.yml*
+  - *conda env create -f ml_tutorial.yml*
 
 2) Activate the environment
   - *conda activate ml_tutorial*
