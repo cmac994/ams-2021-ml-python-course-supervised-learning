@@ -40,7 +40,7 @@ Additionally, the first half of the supervised learning notebook (1-5) was insip
      - Feature Selection
      - Model Training
      - Performance
-  10. Exercise
+ 10. Exercise
      - Feature Importance
      - Learning Curves
      - Practice
