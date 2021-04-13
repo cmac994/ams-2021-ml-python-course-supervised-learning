@@ -1,6 +1,6 @@
 # ams-2021-ml-python-course-supervised-learning
 
-## Supervised learning 
+## Lecture 3: Supervised Machine learning 
 
 This module uses basic ML models – linear regression (LR), logistic regression, suport-vector machines (SVM), decision trees (DT), random forests (RF), and gradient-boosted trees (GB) to predict surface conditions at select Weather Challenge METAR sites.
 
