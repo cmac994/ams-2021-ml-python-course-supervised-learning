@@ -27,10 +27,8 @@ Such an environment can be created from the yml file included in this repository
 
 ### References and Acknowledgements
 
-- Code Citation
 Burke, A., 2020: "Traditional Machine Learning Pipeline Applied to NWP Model Data"
 The first half of the supervised learning notebook was largely insipired by the lecture material cited above.
 
-- Data Citation
 McGovern, A., Burke, A., Harrison, D., and G. M. Lackmann, 2020: A Machine Learning Tutorial for Operational Forecasting: Part I. Wea. Forecasting, In Press 
 
