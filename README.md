@@ -51,12 +51,12 @@ Additionally, the first half of the supervised learning notebook (1-5) was insip
 <img width="1500" height="375" src="Figures/figure3.png">
 
 *A variety of supervised machine learning techniques are applied to predict maximum temperature at KROA (Roanoke-Blacksburg Airport, VA) between 2018-2019.
-Each model was trained using NWP model forecast data retrieved between 2011 and 2017. The comparison in mean squared error and the percentile absolute error difference highlights the power of machine learning to constrain variance. For more details see notebook!*
+Each model was trained using NWP model forecast data retrieved between 2011 and 2017. The comparison in mean squared error and the percentile absolute error difference highlights the power of machine learning to constrain variance. For more details see notebook(s) linked below*
 
 #### Classification
 <img width="1500" height="375" src="Figures/Figure7.png">
 
-*Binary classification performance for precipitation prediction at KROA over the testing period (2018-2019). Receiver Operating Characteristic (ROC) curves are displayed on the left while Detection Error Tradeoff (DET) curves are shown on the right. Both plots show that machine learning models, especially gradient boosting, outperform NWP in terms of precipitation prediction (i.e. precipitation = 1, no precipitation = 0) on any given day. For more details see notebook!*
+*Binary classification performance for precipitation prediction at KROA over the testing period (2018-2019). Receiver Operating Characteristic (ROC) curves are displayed on the left while Detection Error Tradeoff (DET) curves are shown on the right. Both plots show that machine learning models, especially gradient boosting, outperform NWP in terms of precipitation prediction (i.e. precipitation = 1, no precipitation = 0) on any given day. For more details see the notebook(s) linked below*
 
 ### Module Setup
 
