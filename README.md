@@ -2,7 +2,7 @@
 
 ## Supervised learning 
 
-<img width="1680" height="255" src="Figures/Figure4.png">
+<img width="1680" height="255" src="Figures/Figure3.png">
 
 ### Setup
 
